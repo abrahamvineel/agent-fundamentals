@@ -4,3 +4,4 @@ __pycache__/
 *.db
 .DS_Store
 benchmark_results.tsv
+.env.example
